@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 안녕하세요! 이준영입니다.
+
+
+#### 🌱 Skill
+![Static Badge](https://img.shields.io/badge/HTML5-yellow?logo=HTML5)
+![Static Badge](https://img.shields.io/badge/javascript-blue?logo=javascript)
+![Static Badge](https://img.shields.io/badge/php-purple?logo=php)
 
 <!--
 **LeeJoonYeong/LeeJoonYeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
