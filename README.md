@@ -2,9 +2,11 @@
 
 
 #### 🌱 Skill
-![Static Badge](https://img.shields.io/badge/HTML5-yellow?logo=HTML5)
-![Static Badge](https://img.shields.io/badge/javascript-blue?logo=javascript)
-![Static Badge](https://img.shields.io/badge/php-purple?logo=php)
+![JavaScript](https://img.shields.io/badge/HTML5-F7DF1E?logo=HTML5&logoColor=black&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/php-F7DF1E?logo=php&logoColor=black&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+
 
 <!--
 **LeeJoonYeong/LeeJoonYeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
