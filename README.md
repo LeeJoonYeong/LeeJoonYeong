@@ -2,9 +2,9 @@
 
 
 #### 🌱 Skill
-![JavaScript](https://img.shields.io/badge/HTML5-F7DF1E?logo=HTML5&logoColor=black&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-F7DF1E?logo=HTML5&logoColor=black&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/php-F7DF1E?logo=php&logoColor=black&style=for-the-badge)
+![php](https://img.shields.io/badge/php-F7DF1E?logo=php&logoColor=black&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
 
