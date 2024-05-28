@@ -12,11 +12,11 @@
   <br>
   어디서든 접근하기 좋은 "웹🌐"과 재미를 주는 "게임🎲"이 만난다면 이보다 더한 환상은 없을 것입니다!<br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=60&duration=4000&pause=300&color=ffffff&center=false&vCenter=true&multiline=false&repeat=true&random=false&width=1300&height=150&lines=Fantasy!" width="70%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=80&duration=4000&pause=300&color=ffffff&center=false&vCenter=true&multiline=false&repeat=true&random=false&width=1300&height=150&lines=Fantasy!" width="70%" />
 </p>
 <br>
 
-### 🌱 함께한 기술들
+### ⚡ 함께한 기술들
 ___
 <p align="left">  
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=e34c26">  
