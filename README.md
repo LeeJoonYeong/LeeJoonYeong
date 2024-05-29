@@ -11,8 +11,6 @@
   게임은 개인과 개인, 또는 집단과 집단을 "재미"라는 요소를 통해 하나로 만들어주는 마법✨과같은 존재거든요.<br>
   <br>
   어디서든 접근하기 좋은 "웹🌐"과 재미를 주는 "게임🎲"이 만난다면 이보다 더한 환상은 없을 것입니다!<br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=80&duration=4000&pause=300&color=ffffff&center=false&vCenter=true&multiline=false&repeat=true&random=false&width=1300&height=150&lines=Fantasy!" width="70%" />
 </p>
 <br>
 
@@ -29,4 +27,27 @@ ___
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=gulp&svgfill=D04345">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=ffffff">  
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=f1502f">  
 </p>
+<p>
+  직장 프로젝트, 또는 개인 프로젝트로 함께했던 언어, 프레임워크, 라이브러리들 입니다.
+</p>
+<br>
+
+### ⚽ 컴퓨터 외 취미
+___
+- 헬스(웨이트)
+- 축구
+
+<p>
+  컴퓨터로 일을하면 회사나 집 등 앉아 있는 시간이 하루의 절반 이상입니다. (허리야 미안해 😭)<br>
+  때문에 하루 10000보 이상은 항상 걷고, 헬스(웨이트)를 통해 꾸준한 건강관리가 저의 또다른 삶의 낙입니다.<br>
+  또 사람들과 어울려 스포츠를 하는 것을 좋아하여 매주 일요일 아침 풋살&&축구를 하고있습니다.<br>
+  보는 것도 좋아해서 프리미어리그에 우리의 캡틴 "손흥민"선수가 주장을 맡고 있는 "토트넘" 경기가 있는 날이면 항상 챙겨봅니다! 🤩
+</p>
+
+```js
+let hobby1 = 'football';
+let hobby2 = 'health';
+const happiness = hobby1 === 'football' && hobby2 === 'health' ? true : false;
+```
