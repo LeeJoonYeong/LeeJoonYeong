@@ -36,18 +36,22 @@ ___
 
 ### 💻 프로젝트
 ___
-- (주)대흥소프트밀 기업 사이트 리뉴얼
-    - [www.softmill.co.kr](https://www.softmill.co.kr)
-    - 기간: 2022년 10월 ~ 2023년 4월
-    - 맡은 포지션: 퍼블, 프론트엔드, 백엔드 (1인 개발)
-    - 사용된 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-    - 요약
-        1. php로 간단한 디자인패턴을 이용하여 레이아웃 구성.
-        2. mariaDB로 데이터 관리.
-        3. 기업을 대표하는 홈페이지 및 홈페이지 관리 페이지(어드민)으로 구성.
-        4. 구글서치엔진, 네이버서치어드바이저, 다음웹마스터도구, bing웹마스터툴스를 적용하여 사용자들의 사이트 탐색 및 검색 범위 확장.
-        5. 네이버클라우드 플랫폼의 naver map api를 활용.
-        6. PC 및 Mobile모드 분리 개발.
+#### (주)대흥소프트밀 기업 사이트 리뉴얼
+
+![대흥소프트밀_홈페이지](https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/fb51e659-660e-4e5a-bfc7-5d2a91c10d7a)
+
+- [www.softmill.co.kr](https://www.softmill.co.kr)
+- 기간: 2022년 10월 ~ 2023년 4월
+- 맡은 포지션: 퍼블, 프론트엔드, 백엔드 (1인 개발)
+- 사용된 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+- 요약
+    1. php로 간단한 디자인패턴을 이용하여 레이아웃 구성.
+    2. mariaDB로 데이터 관리.
+    3. 기업을 대표하는 홈페이지 및 홈페이지 관리 페이지(어드민)으로 구성.
+    4. 구글서치엔진, 네이버서치어드바이저, 다음웹마스터도구, bing웹마스터툴스를 적용하여 사용자들의 사이트 탐색 및 검색 범위 확장.
+    5. 네이버클라우드 플랫폼의 naver map api를 활용.
+    6. PC 및 Mobile모드 분리 개발.
+    7. 페이지의 텍스트 한국어와 영어 2가지 언어 모드로 전환 가능.
 <br>
 
 ### ⚽ 컴퓨터 외 취미
