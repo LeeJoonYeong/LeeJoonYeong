@@ -38,10 +38,17 @@ ___
 ___
 #### nftclassicsociety 사이트 제작
 
+![nftclassicsociety_홈페이지](https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/03621bf3-9476-4f7f-beb1-4ef9fac55d8b)
+
 - [www.nftclassicsociety.ai](https://www.nftclassicsociety.ai/mint/chaconne)
 - 기간: 2022년 3월 ~ 2022년 6월
 - 맡은 포지션: 퍼블, 프론트엔드
 - 써본 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![next.js](https://img.shields.io/badge/-next.js-black?style=flat-square&logo=next.js)
+- 요약
+    1. nextjs를 이용하여 컴포넌트 레이아웃 구성.
+    2. 백엔드 팀(타 회사)와 협업 경험.
+    3. 반응형(미디어쿼리)를 이용하여 모바일 모드 구성.
+    4. 현재 운영 중.
 
 <br>
 
@@ -61,7 +68,7 @@ ___
     5. 네이버클라우드 플랫폼의 naver map api를 활용.
     6. PC 및 Mobile모드 분리 개발.
     7. 페이지의 텍스트 한국어와 영어 2가지 언어 모드로 전환 가능.
-    8. 현재 운영중.
+    8. 현재 운영 중.
 
 <br>
 
