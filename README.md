@@ -36,14 +36,23 @@ ___
 
 ### 💻 프로젝트
 ___
+#### nftclassicsociety 사이트 제작
+
+- [www.nftclassicsociety.ai](https://www.nftclassicsociety.ai/mint/chaconne)
+- 기간: 2022년 3월 ~ 2022년 6월
+- 맡은 포지션: 퍼블, 프론트엔드
+- 써본 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![next.js](https://img.shields.io/badge/-next.js-black?style=flat-square&logo=next.js)
+
+<br>
+
 #### (주)대흥소프트밀 기업 사이트 리뉴얼
 
 ![대흥소프트밀_홈페이지](https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/fb51e659-660e-4e5a-bfc7-5d2a91c10d7a)
 
 - [www.softmill.co.kr](https://www.softmill.co.kr)
-- 기간: 2022년 10월 ~ 2023년 4월
+- 기간: 2022년 12월 ~ 2023년 6월
 - 맡은 포지션: 퍼블, 프론트엔드, 백엔드 (1인 개발)
-- 사용된 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+- 써본 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 - 요약
     1. php로 간단한 디자인패턴을 이용하여 레이아웃 구성.
     2. mariaDB로 데이터 관리.
@@ -52,6 +61,8 @@ ___
     5. 네이버클라우드 플랫폼의 naver map api를 활용.
     6. PC 및 Mobile모드 분리 개발.
     7. 페이지의 텍스트 한국어와 영어 2가지 언어 모드로 전환 가능.
+    8. 현재 운영중.
+
 <br>
 
 ### ⚽ 컴퓨터 외 취미
