@@ -47,7 +47,7 @@ ___
 
 #### (주)대흥소프트밀 기업 사이트 리뉴얼
 
-![대흥소프트밀_홈페이지](https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/fb51e659-660e-4e5a-bfc7-5d2a91c10d7a)
+![대흥소프트밀_홈페이지](https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/564938ba-b062-473c-95b5-56d5f42f12b4)
 
 - [www.softmill.co.kr](https://www.softmill.co.kr)
 - 기간: 2022년 12월 ~ 2023년 6월
