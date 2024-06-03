@@ -43,7 +43,7 @@ ___
 - [www.nftclassicsociety.ai](https://www.nftclassicsociety.ai/mint/chaconne)
 - 기간: 2022년 3월 ~ 2022년 6월
 - 맡은 포지션: 퍼블, 프론트엔드
-- 써본 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![next.js](https://img.shields.io/badge/-next.js-black?style=flat-square&logo=next.js)
+- 써본 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![next.js](https://img.shields.io/badge/-next.js-black?style=flat-square&logo=next.js)![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)![git](https://img.shields.io/badge/-git-black?style=flat-square&logo=git)
 - 요약
     1. nextjs를 이용하여 컴포넌트 레이아웃 구성.
     2. 백엔드 팀(타 회사)와 협업 경험.
@@ -59,7 +59,7 @@ ___
 - [www.softmill.co.kr](https://www.softmill.co.kr)
 - 기간: 2022년 12월 ~ 2023년 6월
 - 맡은 포지션: 퍼블, 프론트엔드, 백엔드 (1인 개발)
-- 써본 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+- 써본 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![git](https://img.shields.io/badge/-git-black?style=flat-square&logo=git)
 - 요약
     1. php로 간단한 디자인패턴을 이용하여 레이아웃 구성.
     2. mariaDB로 데이터 관리.
