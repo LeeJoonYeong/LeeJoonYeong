@@ -54,6 +54,16 @@ ___
 
 #### k-bank 인터넷, 스마트 뱅킹 운영
 
+<img src="https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/4c358920-d37f-4129-a645-9335e3d82198" width="320">
+
+- [www.kbanknow.com](https://www.kbanknow.com)
+- 기간: 2022년 7월 ~ 2022년 11월
+- 맡은 포지션: 퍼블
+- 써본 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![svn](https://img.shields.io/badge/-svn-black?style=flat-square&logo=svn)
+- 요약
+    1. k-bank 인터넷, 스마트 뱅킹 퍼블 운영.
+    2. k-bank 본사로 파견 근무.
+
 <br>
 
 #### (주)대흥소프트밀 기업 사이트 리뉴얼
