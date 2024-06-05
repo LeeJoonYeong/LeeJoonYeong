@@ -43,7 +43,7 @@ ___
 - [www.nftclassicsociety.ai](https://www.nftclassicsociety.ai/mint/chaconne)
 - 기간: 2022년 3월 ~ 2022년 6월
 - 맡은 포지션: 퍼블, 프론트엔드
-- 써본 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![next.js](https://img.shields.io/badge/-next.js-gray?style=flat-square&logo=next.js)![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)![git](https://img.shields.io/badge/-git-black?style=flat-square&logo=git)
+- 써본 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Next.js](https://img.shields.io/badge/-Next.js-gray?style=flat-square&logo=Next.js)![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=NPM)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
 - 요약
     1. Nextjs를 이용하여 컴포넌트 레이아웃 구성.
     2. 반응형(미디어쿼리)를 이용하여 모바일 모드 구성.
@@ -59,7 +59,7 @@ ___
 - [www.kbanknow.com](https://www.kbanknow.com)
 - 기간: 2022년 7월 ~ 2022년 11월
 - 맡은 포지션: 퍼블
-- 써본 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![svn](https://img.shields.io/badge/-svn-black?style=flat-square&logo=svn)
+- 써본 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![SVN](https://img.shields.io/badge/-SVN-black?style=flat-square&logo=SVN)
 - 요약
     1. k-bank 인터넷, 스마트 뱅킹 퍼블 운영.
     2. k-bank 본사로 파견 근무.
@@ -74,7 +74,7 @@ ___
 - [www.softmill.co.kr](https://www.softmill.co.kr)
 - 기간: 2022년 12월 ~ 2023년 6월
 - 맡은 포지션: 퍼블, 프론트엔드, 백엔드 (1인 개발)
-- 써본 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![php](https://img.shields.io/badge/-php-purple?style=flat-square&logo=php)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![git](https://img.shields.io/badge/-git-black?style=flat-square&logo=git)
+- 써본 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=PHP)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
 - 요약
     1. php로 간단한 디자인패턴을 이용하여 레이아웃 구성.
     2. mariaDB로 데이터 관리.
@@ -87,9 +87,19 @@ ___
 
 <br>
 
-#### NH 농협 인터넷 뱅킹 차세대 고도화
+#### NH농협은행 인터넷 뱅킹 차세대 고도화 구축
 
+<img src="https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/4a2261bb-502f-45ac-85be-6fa8e3b1763b" width="320">
 
+- [banking.nonghyup.com](https://banking.nonghyup.com)
+- 기간: 2024년 1월 ~ 2024년 5월
+- 맡은 포지션: 퍼블
+- 써본 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=SASS)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Gulp](https://img.shields.io/badge/-Gulp-black?style=flat-square&logo=Gulp)![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=EJS)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
+- 요약
+    1. NH농협은행 인터넷 뱅킹 "조회/이체"파트 구축.
+    2. NH농협은행 IT센터 파견 근무.
+    3. SASS를 이용하여 코드 가독성과 재사용성 향상.
+    4. Gulp를 이용하여 이미지 최적화 등 편리한 자동화 시스템 사용 경험.
 
 <br>
 
