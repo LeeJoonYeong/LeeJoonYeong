@@ -4,7 +4,7 @@
   어릴 때부터 게임을 좋아해서 관심을 많이 갖다가 게임만드는 것에 관심이 생겨 게임공학을 전공으로 했습니다. <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" height="20" /> <br>
   그렇게 처음 만난 언어는 "C++"입니다. 저를 컴퓨터 세계에 입문하게 해준 고마운 녀석입니다. 😎 <br>
   현재는 웹기술에 관심이 생겨 현재는 웹과 많이 친해져있습니다! <br>
-  웹이 언제 어디서든 만나기가 쉽고 저를 포함하여 우리 인류에게 수많은 정보를 전달을 해줄 수 있는 자비스같은 존재라 관심이 많이 생겼어요. 
+  웹이 언제 어디서든 만나기가 쉽고 저를 포함하여 우리 인류에게 수많은 정보를 전달을 해줄 수 있는 책과같은 존재라 관심이 많이 생겼습니다. 
   매력이 넘쳐 안친해질 수가 없었습니다! 😆 <br>
   <br>
   그렇다고 게임과 멀어지진 않았습니다. 게임도 정말 매력적인 녀석이라 멀어질 수가 없습니다. <br>
@@ -35,17 +35,18 @@ ___
 </p>
 <br>
 
-### 💻 프로젝트
+### 💻 회사 프로젝트
 ___
 #### nftclassicsociety 사이트 제작
 
 ![nftclassicsociety_홈페이지](https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/03621bf3-9476-4f7f-beb1-4ef9fac55d8b)
 
 - [www.nftclassicsociety.ai](https://www.nftclassicsociety.ai/mint/chaconne)
-- 기간: 2022년 3월 ~ 2022년 6월
-- 맡은 포지션: 퍼블, 프론트엔드
-- 써본 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Next.js](https://img.shields.io/badge/-Next.js-gray?style=flat-square&logo=Next.js)![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=NPM)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
-- 요약
+- Company: (주)피크닉
+- Period: 2022년 3월 ~ 2022년 6월
+- Role: 퍼블, 프론트엔드
+- Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Next.js](https://img.shields.io/badge/-Next.js-gray?style=flat-square&logo=Next.js)![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=NPM)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
+- Description
     1. Nextjs를 이용하여 컴포넌트 레이아웃 구성.
     2. 반응형(미디어쿼리)를 이용하여 모바일 모드 구성.
     3. 백엔드 팀(타 회사)와 협업 경험.
@@ -58,10 +59,11 @@ ___
 <img src="https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/4c358920-d37f-4129-a645-9335e3d82198" width="320">
 
 - [www.kbanknow.com](https://www.kbanknow.com)
-- 기간: 2022년 7월 ~ 2022년 11월
-- 맡은 포지션: 퍼블
-- 써본 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![SVN](https://img.shields.io/badge/-SVN-black?style=flat-square&logo=SVN)
-- 요약
+- Company: (주)피크닉
+- Period: 2022년 7월 ~ 2022년 11월
+- Role: 퍼블
+- Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![SVN](https://img.shields.io/badge/-SVN-black?style=flat-square&logo=SVN)
+- Description
     1. k-bank 인터넷, 스마트 뱅킹 퍼블 운영.
     2. k-bank 본사로 파견 근무.
     3. svn을 이용하여 버전 관리.
@@ -73,10 +75,11 @@ ___
 ![대흥소프트밀_홈페이지](https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/564938ba-b062-473c-95b5-56d5f42f12b4)
 
 - [www.softmill.co.kr](https://www.softmill.co.kr)
-- 기간: 2022년 12월 ~ 2023년 6월
-- 맡은 포지션: 퍼블, 프론트엔드, 백엔드 (1인 개발)
-- 써본 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=PHP)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
-- 요약
+- Company: (주)피크닉
+- Period: 2022년 12월 ~ 2023년 6월
+- Role: 퍼블, 프론트엔드, 백엔드 (1인 개발)
+- Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=PHP)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
+- Description
     1. php로 간단한 디자인패턴을 이용하여 레이아웃 구성.
     2. mariaDB로 데이터 관리.
     3. 기업을 대표하는 홈페이지 및 홈페이지 관리 페이지(어드민)으로 구성.
@@ -93,14 +96,34 @@ ___
 <img src="https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/4a2261bb-502f-45ac-85be-6fa8e3b1763b" width="320">
 
 - [banking.nonghyup.com](https://banking.nonghyup.com)
-- 기간: 2024년 1월 ~ 2024년 5월
-- 맡은 포지션: 퍼블
-- 써본 기술: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=SASS)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Gulp](https://img.shields.io/badge/-Gulp-black?style=flat-square&logo=Gulp)![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=EJS)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
-- 요약
+- Company: (주)피크닉
+- Period: 2024년 1월 ~ 2024년 5월
+- Role: 퍼블
+- Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=SASS)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Gulp](https://img.shields.io/badge/-Gulp-black?style=flat-square&logo=Gulp)![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=EJS)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
+- Description
     1. NH농협은행 인터넷 뱅킹 "조회/이체"파트 구축.
     2. NH농협은행 IT센터 파견 근무.
     3. SASS를 이용하여 코드 가독성과 재사용성 향상.
     4. Gulp를 이용하여 이미지 최적화 등 편리한 자동화 시스템 사용 경험.
+
+<br>
+
+### 💻 개인 프로젝트
+___
+#### barber101 커뮤니티 사이트 제작
+
+![nftclassicsociety_홈페이지](https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/03621bf3-9476-4f7f-beb1-4ef9fac55d8b)
+
+- [www.nftclassicsociety.ai](https://www.nftclassicsociety.ai/mint/chaconne)
+- Company: (주)피크닉
+- Period: 2022년 3월 ~ 2022년 6월
+- Role: 퍼블, 프론트엔드
+- Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Next.js](https://img.shields.io/badge/-Next.js-gray?style=flat-square&logo=Next.js)![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=NPM)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
+- Description
+    1. Nextjs를 이용하여 컴포넌트 레이아웃 구성.
+    2. 반응형(미디어쿼리)를 이용하여 모바일 모드 구성.
+    3. 백엔드 팀(타 회사)와 협업 경험.
+    4. 현재 운영 중.
 
 <br>
 
