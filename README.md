@@ -120,11 +120,11 @@ ___
 - Role: 퍼블, 프론트엔드, 백엔드 (1인 개발)
 - Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=PHP)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
 - Description
-    1. 주말(토, 일)만을 활용하여 사이드 프로젝트 시행.
+    1. 주말(토, 일)만을 활용하여 사이드 프로젝트 진행.
     2. php로 심플한 디자인패턴을 이용하여 레이아웃 구성.
     3. mariaDB로 데이터 관리.
     4. 메인 홈페이지 및 홈페이지 관리 페이지(어드민)으로 구성.
-    5. Mobile은 미디어쿼리(반응형)으로 제작.
+    5. Mobile은 미디어쿼리(반응형)로 제작.
     6. Cross Site Scripting(XSS)및 SQL Injection 보안 적용.
     7. 다수의 사용자를 받아들여 회원가입, 로그인, 비밀번호 찾기, 댓글, 좋아요, 신고 기능 구현.
     8. 회원 등급제로, 각 등급별 이용가능 페이지 구분 시스템. 
