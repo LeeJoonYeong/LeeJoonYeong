@@ -48,7 +48,7 @@ ___
 - Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Next.js](https://img.shields.io/badge/-Next.js-gray?style=flat-square&logo=Next.js)![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=NPM)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
 - Description
     1. Nextjs를 이용하여 컴포넌트 레이아웃 구성.
-    2. 반응형(미디어쿼리)를 이용하여 모바일 모드 구성.
+    2. 반응형(미디어쿼리)을 이용하여 모바일 모드 구성.
     3. 백엔드 팀(타 회사)와 협업 경험.
     4. 현재 운영 중.
 
