@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> 안녕하세요! 이준영입니다. 
 <p>
-  저는 현재 웹 개발자로 일을 하고있는 개발자입니다. 😄 <br>
+  저는 웹 개발자로 일을 하고있는 개발자입니다. 😄 <br>
   어릴 때부터 게임을 좋아해서 관심을 많이 갖다가 게임 만드는 것에 관심이 생겨 게임 공학을 전공으로 했습니다. <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" height="20" /> <br>
   그렇게 처음 만난 언어는 "C++"입니다. 저를 컴퓨터 세계에 입문하게 해준 고마운 녀석입니다. 😎 <br>
   현재는 웹 기술에 관심이 생겨 현재는 웹과 많이 친해져있습니다! <br>
