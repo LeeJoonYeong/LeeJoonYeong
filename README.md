@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> 안녕하세요! 이준영입니다. 
 <p>
-  저는 웹 개발자로 일을 하고있는 개발자입니다. 😄 <br>
+  저는 웹애플리케이션 분야에서 일을 하고있는 개발자입니다. 😄 <br>
   어릴 때부터 게임을 좋아해서 관심을 많이 갖다가 게임 만드는 것에 관심이 생겨 게임 공학을 전공으로 했습니다. <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" height="20" /> <br>
   그렇게 처음 만난 언어는 "C++"입니다. 저를 컴퓨터 세계에 입문하게 해준 고마운 녀석입니다. 😎 <br>
   현재는 웹 기술에 관심이 생겨 웹과 많이 친해져있습니다! <br>
@@ -47,10 +47,12 @@ ___
 - Role: 퍼블, 프론트엔드
 - Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Next.js](https://img.shields.io/badge/-Next.js-gray?style=flat-square&logo=Next.js)![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=NPM)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
 - Description
-    1. Nextjs를 이용하여 컴포넌트 레이아웃 구성.
-    2. 반응형(미디어쿼리)을 이용하여 모바일 모드 구성.
+    1. 1인 프론트엔드 역할 수행.
+    2. Nextjs를 이용하여 컴포넌트 레이아웃 구성.
     3. 백엔드 팀(타 회사)와 협업 경험.
-    4. 현재 운영 중.
+    4. 반응형(미디어쿼리)을 이용하여 모바일 모드 구성.
+    5. 첫 프론트엔드 역할 -> 기존의 Javascript언어에 대한 이해를 바탕으로 처음 접하는 React라이브러리를 빠르게 파악하여 Nextjs프로젝트를 성공적으로 완료 경험. 
+    6. 현재 운영 중.
 
 <br>
 
