@@ -49,10 +49,11 @@ ___
 - Description
     1. 1인 프론트엔드 역할 수행.
     2. Nextjs를 이용하여 컴포넌트 레이아웃 구성.
-    3. 백엔드 팀(타 회사)와 협업 경험.
+    3. redux를 이용한 상태관리.
     4. 반응형(미디어쿼리)을 이용하여 모바일 모드 구성.
-    5. 첫 프론트엔드 역할 -> 기존의 Javascript언어에 대한 이해를 바탕으로 처음 접하는 React라이브러리를 빠르게 파악하여 Nextjs프로젝트를 성공적으로 완료 경험. 
-    6. 현재 운영 중.
+    5. 백엔드 팀(타 회사)와 협업 경험.
+    6. 첫 프론트엔드 역할로 기존의 Javascript언어에 대한 이해를 바탕으로 처음 접하는 React를 빠르게 파악하고 습득하여 Nextjs프로젝트를 성공적으로 완료. 
+    7. 현재 운영 중.
 
 <br>
 
@@ -83,15 +84,16 @@ ___
 - Role: 퍼블, 프론트엔드, 백엔드 (1인 개발)
 - Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=PHP)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
 - Description
-    1. php로 심플한 디자인패턴을 이용하여 레이아웃 구성.
-    2. mariaDB로 데이터 관리.
+    1. PHP로 심플한 디자인패턴을 이용하여 레이아웃 구성.
+    2. MariaDB로 SQL을 활용하여 데이터 관리.
     3. 기업을 대표하는 홈페이지 및 홈페이지 관리 페이지(어드민)으로 구성.
-    4. 구글서치엔진, 네이버서치어드바이저, 다음웹마스터도구, bing웹마스터툴스를 적용하여 사용자들의 사이트 탐색 및 검색 범위 확장.
-    5. 네이버클라우드 플랫폼의 naver map api를 활용.
-    6. PC 및 Mobile모드 분리 개발.
-    7. 페이지의 텍스트 한국어와 영어 2가지 언어 모드로 전환 가능.
-    8. Cross Site Scripting(XSS)및 SQL Injection 보안 적용.
-    9. 현재 운영 중.
+    4. 기업의 제품을 SQL문을 이용하여 여러가지 조건별로 데이터 로드 및 나열.
+    5. 구글서치엔진, 네이버서치어드바이저, 다음웹마스터도구, Bing웹마스터툴스를 적용하여 사용자들의 사이트 탐색 및 검색 범위 확장.
+    6. 다음(Daum) 우편번호 서비스와 네이버클라우드 플랫폼의 naver map api를 연계하여 매장 위치 등록 및 탐색 서비스 구현.
+    7. PC 및 Mobile모드 분리 개발.
+    8. 홈페이지 언어모드(한국어와 영어) 2가지 언어 모드 개발.
+    9. Cross Site Scripting(XSS)및 SQL Injection 보안 적용.
+    10. 현재 운영 중.
 
 <br>
 
@@ -107,8 +109,8 @@ ___
 - Description
     1. NH농협은행 인터넷 뱅킹 "조회/이체"파트 구축.
     2. NH농협은행 IT센터 파견 근무.
-    3. SASS를 이용하여 코드 가독성과 재사용성 향상.
-    4. Gulp를 이용하여 이미지 최적화 등 편리한 자동화 시스템 사용 경험.
+    3. SASS, Ejs를 이용하여 코드 가독성과 재사용성 향상.
+    4. Gulp를 이용하여 이미지 최적화 등 빌드 자동화 시스템으로 프로젝트 관리.
 
 <br>
 
@@ -123,15 +125,16 @@ ___
 - Role: 퍼블, 프론트엔드, 백엔드 (1인 개발)
 - Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=PHP)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
 - Description
-    1. 주말(토, 일)만을 활용하여 사이드 프로젝트 진행.
-    2. php로 심플한 디자인패턴을 이용하여 레이아웃 구성.
-    3. mariaDB로 데이터 관리.
-    4. 메인 홈페이지 및 홈페이지 관리 페이지(어드민)으로 구성.
+    1. 주말(토, 일)만을 활용한 사이드 프로젝트 작업 진행.
+    2. PHP로 심플한 디자인패턴을 이용하여 레이아웃 구성.
+    3. MariaDB로 SQL을 활용하여 데이터 관리.
+    4. 커뮤니티 메인 홈페이지 및 홈페이지 관리 페이지(어드민)으로 구성.
     5. Mobile은 미디어쿼리(반응형)로 제작.
     6. Cross Site Scripting(XSS)및 SQL Injection 보안 적용.
     7. 다수의 사용자를 받아들여 회원가입, 로그인, 비밀번호 찾기, 댓글, 좋아요, 신고 기능 구현.
-    8. 회원 등급제로, 각 등급별 이용가능 페이지 구분 시스템. 
-    9. 현재 오픈은 했으나 운영 준비 중.
+    8. 사용자별 Token방식을 생각해내어 이메일 발송으로 비밀번호 찾기 시스템 구현. 
+    9. 회원 등급제로, 각 등급별 이용가능 페이지 구분 시스템. 
+    10. 현재 오픈은 했으나 운영 준비 중.
 
 <br>
 
