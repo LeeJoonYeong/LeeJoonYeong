@@ -18,8 +18,8 @@
 ### ⚡ 함께한 기술들
 ___
 <p align="left">  
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=e34c26">  
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=2965f1">  
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=e34c26">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=2965f1">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=SASS&svgfill=cd6799">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=PHP&svgfill=787CB4">
@@ -67,8 +67,9 @@ ___
 - Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![SVN](https://img.shields.io/badge/-SVN-black?style=flat-square&logo=SVN)
 - Description
     1. k-bank 인터넷, 스마트 뱅킹 퍼블 운영.
-    2. k-bank 본사로 파견 근무.
-    3. svn을 이용하여 버전 관리.
+    2. k-bank IT센터(을지로)로 파견 근무.
+    3. svn을 이용하여 형상 관리.
+    4. Jira를 통한 프로젝트 관리.
 
 <br>
 
