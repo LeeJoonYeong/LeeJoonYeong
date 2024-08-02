@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> 안녕하세요! 이준영입니다. 
+# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> 안녕하세요! 이준영입니다. 
 <p>
   저는 웹애플리케이션 분야에서 일을 하고있는 개발자입니다. 😄 <br>
   어릴 때부터 게임을 좋아해서 관심을 많이 갖다가 게임 만드는 것에 관심이 생겨 게임 공학을 전공으로 했습니다. <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" height="20" /> <br>
@@ -15,7 +15,7 @@
 </p>
 <br>
 
-### ⚡ 함께한 기술들
+## ⚡ 함께한 기술들
 ___
 <p align="left">  
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=e34c26">
@@ -35,9 +35,9 @@ ___
 </p>
 <br>
 
-### 💻 회사 프로젝트
+## 💻 회사 프로젝트
 ___
-#### nftclassicsociety 사이트 제작
+### nftclassicsociety 사이트 제작
 
 ![nftclassicsociety_홈페이지](https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/03621bf3-9476-4f7f-beb1-4ef9fac55d8b)
 
@@ -53,7 +53,7 @@ ___
 
 <br>
 
-#### k-bank 인터넷, 스마트 뱅킹 운영
+### k-bank 인터넷, 스마트 뱅킹 운영
 
 <img src="https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/4c358920-d37f-4129-a645-9335e3d82198" width="320">
 
@@ -67,7 +67,7 @@ ___
 
 <br>
 
-#### (주)대흥소프트밀 기업 사이트 리뉴얼
+### (주)대흥소프트밀 기업 사이트 리뉴얼
 
 ![대흥소프트밀_홈페이지](https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/564938ba-b062-473c-95b5-56d5f42f12b4)
 
@@ -87,7 +87,7 @@ ___
 
 <br>
 
-#### NH농협은행 인터넷 뱅킹 차세대 고도화 구축
+### NH농협은행 인터넷 뱅킹 차세대 고도화 구축
 
 <img src="https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/4a2261bb-502f-45ac-85be-6fa8e3b1763b" width="320">
 
@@ -104,9 +104,9 @@ ___
 
 <br>
 
-### 💻 개인 프로젝트
+## 💻 개인 프로젝트
 ___
-#### barber101 커뮤니티 사이트 제작
+### barber101 커뮤니티 사이트 제작
 
 ![barber101](https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/804557b4-1e4a-4cbf-b8ce-176e44ccbf5d)
 
@@ -128,15 +128,21 @@ ___
 
 <br>
 
-### 🤚 QNA
+## 🤚 QnA
 ___
 
-#### Q. 개발을 시작한 계기는 무엇인가요?
-A. 어릴 때부터 게임에 관심이 많았습니다. 중학교 때부터 알만툴(ex. rpg vx) 게임엔진을 접하여 게임을 만들어보며 소프트웨어에 흥미가 생겼고, 대학에서 관련 학과를 전공하며 개발에 대한 전문성을 키웠고 웹 개발자로 진로를 정하게 됐습니다.
+### Q. 개발을 시작한 계기는 무엇인가요?
+A. 어릴 때부터 게임에 관심이 많았습니다. 중학교 때부터 알만툴(ex. rpg vx) 게임엔진을 접하여 게임을 만들어보며 소프트웨어에 흥미가 생겼고, 대학에서 관련 학과를 전공하며 개발에 대한 전문성을 키웠고 웹 개발자로 진로를 정하게 됐습니다.🏃
+
+### Q. 개발자로서 가장 중요하게 생각하는 것은 무엇인가요?
+A. 개발자에게 필요한 덕목은 정말 많습니다. 그 중 TOP3를 뽑자면, 다양한 이해관계자와 협업하는 과정에서 서로의 의견을 존중하고 원활하게 "소통"하는 능력, 문제를 해결하는 과정에서 어려움이 있더라도 포기하지 않고 끝까지 해결하려는 "끈기", 그리고 빠르게 변화하는 기술에 뒤처지지 않기 위해 끊임없이 학습하고, 새로운 기술을 습득하는 과정에서의 "인내심"이 가장 중요한게 아닐까 생각합니다.😄
+
+### Q. 개발자로서 이루고 싶은 목표는 무엇인가요?
+A. 웹 개발자로서 사용자에게 편리하고 유용한 서비스를 제공하는 것이 목표입니다. 이를 위해 다양한 기술을 습득에 주저하지 않고, 새로운 도전을 두려워하지 않는 자세로 항상 성장해 나가고 싶습니다!🤜🤛
 
 <br>
 
-### ⚽ 컴퓨터 외 일상생활
+## ⚽ 컴퓨터 외 일상생활
 ___
 - 헬스(웨이트)
 - 축구
