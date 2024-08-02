@@ -47,13 +47,9 @@ ___
 - Role: 퍼블, 프론트엔드
 - Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Next.js](https://img.shields.io/badge/-Next.js-gray?style=flat-square&logo=Next.js)![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=NPM)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
 - Description
-    1. 1인 프론트엔드 역할 수행.
-    2. Nextjs를 이용하여 컴포넌트 레이아웃 구성.
-    3. redux를 이용한 상태관리.
-    4. 반응형(미디어쿼리)을 이용하여 모바일 모드 구성.
-    5. 백엔드 팀(타 회사)와 협업 경험.
-    6. 첫 프론트엔드 역할로 기존의 Javascript언어에 대한 이해를 바탕으로 처음 접하는 React를 빠르게 파악하고 습득하여 Nextjs프로젝트를 성공적으로 완료. 
-    7. 현재 운영 중.
+    1. Nextjs를 이용하여 컴포넌트 레이아웃 구성 및 redux를 이용한 상태관리.
+    3. 반응형(미디어쿼리)을 이용하여 모바일 모드 구성.
+    5. 첫 프론트엔드 역할로 기존의 Javascript언어에 대한 이해를 바탕으로 처음 접하는 React를 빠르게 파악하고 습득하여 Nextjs프로젝트를 성공적으로 완료. 
 
 <br>
 
@@ -67,10 +63,7 @@ ___
 - Role: 퍼블
 - Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![SVN](https://img.shields.io/badge/-SVN-black?style=flat-square&logo=SVN)
 - Description
-    1. k-bank 인터넷, 스마트 뱅킹 퍼블 운영.
-    2. k-bank IT센터(을지로)로 파견 근무.
-    3. svn을 이용하여 형상 관리.
-    4. Jira를 통한 프로젝트 관리.
+    1. k-bank IT센터(을지로)로 파견 근무.
 
 <br>
 
@@ -84,16 +77,13 @@ ___
 - Role: 퍼블, 프론트엔드, 백엔드 (1인 개발)
 - Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=PHP)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
 - Description
-    1. PHP로 심플한 디자인패턴을 이용하여 레이아웃 구성.
-    2. MariaDB로 SQL을 활용하여 데이터 관리.
-    3. 기업을 대표하는 홈페이지 및 홈페이지 관리 페이지(어드민)으로 구성.
-    4. 기업의 제품을 SQL문을 이용하여 여러가지 조건별로 데이터 로드 및 나열.
-    5. 구글서치엔진, 네이버서치어드바이저, 다음웹마스터도구, Bing웹마스터툴스를 적용하여 사용자들의 사이트 탐색 및 검색 범위 확장.
-    6. 다음(Daum) 우편번호 서비스와 네이버클라우드 플랫폼의 naver map api를 연계하여 매장 위치 등록 및 탐색 서비스 구현.
-    7. PC 및 Mobile모드 분리 개발.
-    8. 홈페이지 언어모드(한국어와 영어) 2가지 언어 모드 개발.
-    9. Cross Site Scripting(XSS)및 SQL Injection 보안 적용.
-    10. 현재 운영 중.
+    1. MariaDB로 SQL을 활용하여 데이터 관리.
+    2. 기업을 대표하는 홈페이지 및 홈페이지 관리 페이지(어드민)으로 구성.
+    3. 기업의 제품을 SQL문을 이용하여 여러가지 조건별로 데이터 로드 및 나열.
+    4. 구글서치엔진, 네이버서치어드바이저, 다음웹마스터도구, Bing웹마스터툴스를 적용하여 사용자들의 사이트 탐색 및 검색 범위 확장.
+    5. 다음(Daum) 우편번호 서비스와 네이버클라우드 플랫폼의 naver map api를 연계하여 매장 위치 등록 및 탐색 서비스 구현.
+    6. 홈페이지 언어모드(한국어와 영어) 2가지 언어 모드 개발.
+    7. Cross Site Scripting(XSS)및 SQL Injection 보안 적용.
 
 <br>
 
