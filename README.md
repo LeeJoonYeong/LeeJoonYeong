@@ -13,6 +13,8 @@
   어디서든 접근하기 좋은 "웹🌐"과 재미를 전달하는 "게임🎲", <br>
   이 두 요소가 함께한다면 이보다 더한 환상은 없을 것이라고 봅니다! <br>
 </p>
+
+<br>
 <br>
 
 ## ⚡ 함께한 기술들
@@ -33,6 +35,8 @@ ___
 <p>
   직장 프로젝트, 또는 개인 프로젝트로 함께했던 언어, 프레임워크, 라이브러리들 입니다.
 </p>
+
+<br>
 <br>
 
 ## 💻 회사 프로젝트
@@ -49,6 +53,7 @@ ___
 - Description : Next.js를 이용한 NFT 사이트.
 
 <br>
+<br>
 
 ### k-bank 인터넷, 스마트 뱅킹 운영
 
@@ -61,6 +66,7 @@ ___
 - Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![SVN](https://img.shields.io/badge/-SVN-black?style=flat-square&logo=SVN)
 - Description: k-bank IT센터 파견 근무, 인터넷 및 스마트 뱅킹 운영.
 
+<br>
 <br>
 
 ### (주)대흥소프트밀 기업 사이트 리뉴얼
@@ -75,6 +81,7 @@ ___
 - Description: PHP를 이용한 기업 대표 사이트.
 
 <br>
+<br>
 
 ### NH농협은행 인터넷 뱅킹 차세대 고도화 구축
 
@@ -88,6 +95,7 @@ ___
 - Description: NH농협은행 IT센터 파견 근무, NH농협은행 "조회/이체"파트 구축.
 
 <br>
+<br>
 
 ## 💻 개인 프로젝트
 ___
@@ -97,20 +105,22 @@ ___
 
 - [www.barber101.kr](https://barber101.kr)
 - Period: 2023년 7월 ~ 2023년 12월
-- Role: 퍼블, 프론트엔드, 백엔드 (1인 개발)
+- Role: 퍼블, 프론트엔드, 백엔드 (1인 프로젝트)
 - Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=PHP)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
 - Description
-    1. 주말(토, 일)만을 활용한 사이드 프로젝트 작업 진행.
-    2. PHP로 심플한 디자인패턴을 이용하여 레이아웃 구성.
-    3. MariaDB로 SQL을 활용하여 데이터 관리.
-    4. 커뮤니티 메인 홈페이지 및 홈페이지 관리 페이지(어드민)으로 구성.
-    5. Mobile은 미디어쿼리(반응형)로 제작.
-    6. Cross Site Scripting(XSS)및 SQL Injection 보안 적용.
-    7. 다수의 사용자를 받아들여 회원가입, 로그인, 비밀번호 찾기, 댓글, 좋아요, 신고 기능 구현.
-    8. 사용자별 Token방식을 생각해내어 이메일 발송으로 비밀번호 찾기 시스템 구현. 
-    9. 회원 등급제로, 각 등급별 이용가능 페이지 구분 시스템. 
-    10. 현재 오픈은 했으나 운영 준비 중.
+    1. 1인 프로젝트로 진행.
+    2. 페이지 마크업은 시멘틱 태그를 사용하여 구성.
+    3. PHP의 OOP로 아키텍쳐 구성.
+    4. MySQL로 데이터 입/출력 관리.
+    5. 커뮤니티 메인 홈페이지 및 홈페이지 관리 페이지(어드민)으로 구성.
+    6. Mobile은 미디어쿼리(반응형)로 제작.
+    7. Cross Site Scripting(XSS)및 SQL Injection 보안 적용.
+    8. 다수의 사용자를 받아들여 회원가입, 로그인, 비밀번호 찾기, 댓글, 좋아요, 신고 기능 구현.
+    9. 사용자별 Token값을 이용하여 이메일 발송으로 비밀번호 찾기 시스템 구현. 
+    10. 회원 등급제로, 각 등급별 이용가능 페이지 구분 시스템. 
+    11. 현재 오픈은 했으나 운영 준비 중.
 
+<br>
 <br>
 
 ## 🤚 QnA
@@ -125,6 +135,7 @@ A. 개발자에게 필요한 덕목은 정말 많습니다. 그 중 TOP3를 뽑�
 ### Q. 개발자로서 이루고 싶은 목표는 무엇인가요?
 A. 웹 개발자로서 사용자에게 편리하고 유용한 서비스를 제공하는 것이 목표입니다. 이를 위해 다양한 기술을 습득에 주저하지 않고, 새로운 도전을 두려워하지 않는 자세로 항상 성장해 나가고 싶습니다!🤜🤛
 
+<br>
 <br>
 
 ## ⚽ 컴퓨터 외 일상생활
