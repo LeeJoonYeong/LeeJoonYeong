@@ -41,32 +41,18 @@ ___
 
 ## 💻 회사 프로젝트
 ___
-### nftclassicsociety 사이트 제작
 
-![nftclassicsociety_홈페이지](https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/03621bf3-9476-4f7f-beb1-4ef9fac55d8b)
+### NH농협은행 인터넷 뱅킹 차세대 고도화 구축
 
-- [www.nftclassicsociety.ai](https://www.nftclassicsociety.ai/mint/chaconne)
+<img src="https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/4a2261bb-502f-45ac-85be-6fa8e3b1763b" width="320">
+
+- [banking.nonghyup.com](https://banking.nonghyup.com)
 - Company: (주)피크닉
-- Period: 2022년 3월 ~ 2022년 6월
-- Role: 퍼블, 프론트엔드
-- Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Next.js](https://img.shields.io/badge/-Next.js-gray?style=flat-square&logo=Next.js)![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=NPM)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
-- Description : Next.js를 이용한 NFT 사이트.
-
-<br>
-<br>
-
-### k-bank 인터넷, 스마트 뱅킹 운영
-
-<img src="https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/4c358920-d37f-4129-a645-9335e3d82198" width="320">
-
-- [www.kbanknow.com](https://www.kbanknow.com)
-- Company: (주)피크닉
-- Period: 2022년 7월 ~ 2022년 11월
+- Period: 2024년 1월 ~ 2024년 5월
 - Role: 퍼블
-- Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![SVN](https://img.shields.io/badge/-SVN-black?style=flat-square&logo=SVN)
-- Description: k-bank IT센터 파견 근무, 인터넷 및 스마트 뱅킹 운영.
+- Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=SASS)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Gulp](https://img.shields.io/badge/-Gulp-black?style=flat-square&logo=Gulp)![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=EJS)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
+- Description: NH농협은행 IT센터 파견 근무, NH농협은행 "조회/이체"파트 구축.
 
-<br>
 <br>
 
 ### (주)대흥소프트밀 기업 사이트 리뉴얼
@@ -81,18 +67,30 @@ ___
 - Description: PHP를 이용한 기업 대표 사이트.
 
 <br>
+
+### k-bank 인터넷, 스마트 뱅킹 운영
+
+<img src="https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/4c358920-d37f-4129-a645-9335e3d82198" width="320">
+
+- [www.kbanknow.com](https://www.kbanknow.com)
+- Company: (주)피크닉
+- Period: 2022년 7월 ~ 2022년 11월
+- Role: 퍼블
+- Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![SVN](https://img.shields.io/badge/-SVN-black?style=flat-square&logo=SVN)
+- Description: k-bank IT센터 파견 근무, 인터넷 및 스마트 뱅킹 운영.
+
 <br>
 
-### NH농협은행 인터넷 뱅킹 차세대 고도화 구축
+### nftclassicsociety 사이트 제작
 
-<img src="https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/4a2261bb-502f-45ac-85be-6fa8e3b1763b" width="320">
+![nftclassicsociety_홈페이지](https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/03621bf3-9476-4f7f-beb1-4ef9fac55d8b)
 
-- [banking.nonghyup.com](https://banking.nonghyup.com)
+- [www.nftclassicsociety.ai](https://www.nftclassicsociety.ai/mint/chaconne)
 - Company: (주)피크닉
-- Period: 2024년 1월 ~ 2024년 5월
-- Role: 퍼블
-- Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=SASS)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Gulp](https://img.shields.io/badge/-Gulp-black?style=flat-square&logo=Gulp)![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=EJS)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
-- Description: NH농협은행 IT센터 파견 근무, NH농협은행 "조회/이체"파트 구축.
+- Period: 2022년 3월 ~ 2022년 6월
+- Role: 퍼블, 프론트엔드
+- Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Next.js](https://img.shields.io/badge/-Next.js-gray?style=flat-square&logo=Next.js)![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=NPM)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
+- Description : Next.js를 이용한 NFT 사이트.
 
 <br>
 <br>
@@ -104,7 +102,7 @@ ___
 ![barber101](https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/804557b4-1e4a-4cbf-b8ce-176e44ccbf5d)
 
 - [www.barber101.kr](https://barber101.kr)
-- Period: 2023년 7월 ~ 2023년 12월
+- Period: 2023년 8월 ~ 2023년 12월
 - Role: 퍼블, 프론트엔드, 백엔드 (1인 프로젝트)
 - Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=PHP)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
 - Description
