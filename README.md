@@ -1,16 +1,16 @@
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> 안녕하세요! 이준영입니다. 
 <p>
-  저는 웹애플리케이션 분야에서 일을 하고있는 개발자입니다. 😄 <br>
+  저는 웹/앱 분야에서 일을 하고있는 개발자입니다. 😄 <br>
   어릴 때부터 게임을 좋아해서 관심을 많이 갖다가 게임 만드는 것에 관심이 생겨 게임 공학을 전공으로 했습니다. <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" height="20" /> <br>
   그렇게 처음 만난 언어는 "C++"입니다. 저를 컴퓨터 세계에 입문하게 해준 고마운 녀석입니다. 😎 <br>
-  현재는 웹 기술에 관심이 생겨 웹과 많이 친해져있습니다! <br>
-  웹이 언제 어디서든 만나기가 쉽고 저를 포함하여 우리 인류에게 수많은 정보를 전달을 해줄 수 있는 책과 같은 존재라 관심이 많이 생겼습니다. 
+  현재는 웹/앱 기술에 관심이 생겨 웹과 많이 친해져있습니다! <br>
+  웹/앱이 언제 어디서든 만나기가 쉽고 저를 포함하여 우리 인류에게 수많은 정보를 전달을 해줄 수 있는 책과 같은 존재라 관심이 많이 생겼습니다. 
   매력이 넘쳐 친해지지 않을 수 없었습니다! 😆 <br>
   <br>
   그렇다고 게임과 멀어지진 않았습니다. 게임도 정말 매력적인 녀석이라 멀어질 수가 없습니다. <br>
   게임은 개인과 개인, 또는 집단과 집단을 "재미"라는 요소를 통해 하나로 만들어주는 마법✨과 같은 존재거든요. <br>
   <br>
-  어디서든 접근하기 좋은 "웹🌐"과 재미를 전달하는 "게임🎲", <br>
+  어디서든 접근하기 좋은 "웹/앱🌐"과 재미를 전달하는 "게임🎲", <br>
   이 두 요소가 함께한다면 이보다 더한 환상은 없을 것이라고 봅니다! <br>
 </p>
 
@@ -20,12 +20,12 @@
 ## ⚡ 함께한 기술들
 ___
 <p align="left">  
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&svgfill=23aaf2">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=e34c26">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=2965f1">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=SASS&svgfill=cd6799">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=PHP&svgfill=787CB4">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NPM&svgfill=D50000">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=gulp&svgfill=D04345">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
@@ -41,6 +41,19 @@ ___
 
 ## 💻 회사 프로젝트
 ___
+
+### 퍼소드(AI 감성) 프로젝트
+
+<img width="322" alt="image" src="https://github.com/user-attachments/assets/f8ebd2b6-fd0b-4740-aec1-2e6cb5d36ddb" />
+
+- [플레이스토어 설치](https://play.google.com/store/apps/details?id=com.peaknic.persode)
+- Company: (주)피크닉
+- Period: 2024년 9월 ~ 2025년 7월
+- Role: 프론트엔드
+- Skill: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
+- Description: 대화형 챗봇 기반으로 일기·해시태그를 생성하고, 사용자 선택을 반영해 그림 일기를 생성하는 앱.
+
+<br>
 
 ### NH농협은행 인터넷 뱅킹 차세대 고도화 구축
 
@@ -125,13 +138,13 @@ ___
 ___
 
 ### Q. 개발을 시작한 계기는 무엇인가요?
-A. 어릴 때부터 게임에 관심이 많았습니다. 중학교 때부터 알만툴(ex. rpg vx) 게임엔진을 접하여 게임을 만들어보며 소프트웨어에 흥미가 생겼고, 대학에서 관련 학과를 전공하며 개발에 대한 전문성을 키웠고 웹 개발자로 진로를 정하게 됐습니다.🏃
+A. 어릴 때부터 게임에 관심이 많았습니다. 중학교 시절부터 알만툴(ex. rpg vx) 게임엔진을 접하여 게임을 만들어보며 소프트웨어에 흥미가 생겼고, 대학에서 관련 학과를 전공하며 개발에 대한 전문성을 키웠고 웹/앱 개발자로 진로를 정하게 됐습니다.🏃
 
 ### Q. 개발자로서 가장 중요하게 생각하는 것은 무엇인가요?
 A. 개발자에게 필요한 덕목은 정말 많습니다. 그 중 TOP3를 뽑자면, 다양한 이해관계자와 협업하는 과정에서 서로의 의견을 존중하고 원활하게 "소통"하는 능력, 문제를 해결하는 과정에서 어려움이 있더라도 포기하지 않고 끝까지 해결하려는 "끈기", 그리고 빠르게 변화하는 기술에 뒤처지지 않기 위해 끊임없이 학습하고, 새로운 기술을 습득하는 과정에서의 "인내심"이 가장 중요한게 아닐까 생각합니다.😄
 
 ### Q. 개발자로서 이루고 싶은 목표는 무엇인가요?
-A. 웹 개발자로서 사용자에게 편리하고 유용한 서비스를 제공하는 것이 목표입니다. 이를 위해 다양한 기술을 습득에 주저하지 않고, 새로운 도전을 두려워하지 않는 자세로 항상 성장해 나가고 싶습니다!🤜🤛
+A. 개발자로써 사용자에게 편리하고 유용한 서비스를 제공하는 것이 목표입니다. 이를 위해 다양한 기술을 습득에 주저하지 않고, 새로운 도전을 두려워하지 않는 자세로 항상 성장해 나가고 싶습니다!🤜🤛
 
 <br>
 <br>
@@ -146,7 +159,7 @@ ___
   컴퓨터도 좋아하지만, 활동적인 성향이기도 합니다! <br>
   때문에 하루 10,000보 이상은 항상 걷고, 헬스를 통해 꾸준한 건강관리가 저의 또 다른 삶의 원동력입니다. 💪<br>
   또한 사람들과 어울려 스포츠를 하는 것을 좋아하여 매주 일요일 아침 축구를 하고 있습니다. ⚽<br>
-  축구 시청하는 것도 좋아해서 프리미어리그에 우리의 캡틴 "손흥민"선수가 주장을 맡고 있는 "토트넘" 경기는 항상 챙겨봅니다! 🤩
+  축구 시청하는 것도 좋아해서 한국 국가대표 경기는 항상 챙겨봅니다! 🤩
 </p>
 
 ```js
