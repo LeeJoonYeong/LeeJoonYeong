@@ -19,25 +19,69 @@
 
 ## ⚡ 함께한 기술들
 ___
-<p align="left">  
+<p align="left">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=3178c6">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=ffffff">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&svgfill=23aaf2">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=e34c26">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=2965f1">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=06b6d4">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=SASS&svgfill=cd6799">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=PHP&svgfill=787CB4">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=NPM&svgfill=D50000">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=gulp&svgfill=D04345">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=ffffff">  
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=f1502f">  
-</p>
-<p>
-  직장 프로젝트, 또는 개인 프로젝트로 함께했던 언어, 프레임워크, 라이브러리들 입니다.
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MySQL&svgfill=4479a1">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=f1502f">
 </p>
 
 <br>
 <br>
+
+  ## 💻 개인 프로젝트
+  ___
+
+  ### Regame - 실시간 대전 게임 플랫폼
+
+  <img src="https://github.com/user-attachments/assets/501079b6-0812-49f2-86f1-112eb6f57d54" alt="" style="width: 400px;">
+
+  - [regame.co.kr](https://regame.co.kr)
+  - **Period**: 2025년 11월 ~ 진행 중
+  - **Role**: Full-stack (1인 개발)
+  - **Tech Stack**:
+    ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat-square&logo=typescript)
+    ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase)
+    ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
+  - **Description**: 
+    - 반응력, 순발력, 관찰력 등 감각 능력을 측정하고 실시간 1:1 대전이 가능한 웹 게임 플랫폼
+    - Supabase Realtime(Channel, Broadcast, Presence)으로 멀티플레이어 매칭 시스템 구현
+    - Proxy 패턴으로 탭 전환 시 Supabase 클라이언트 복구 문제 해결
+    - Code Splitting으로 초기 번들 크기 65% 감소 (889KB → 312KB)
+    - 일일 티켓 시스템, 능력치 시스템, 리더보드 등 게이미피케이션 요소 적용
+  - **GitHub**: Private (요청 시 접근 권한 제공)
+
+  <br>
+
+  ### barber101 - 커뮤니티 사이트
+
+  ![barber101](https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/804557b4-1e4a-4cbf-b8ce-176e44ccbf5d)
+
+  - [barber101.kr](https://barber101.kr)
+  - **Period**: 2023년 8월 ~ 2023년 12월
+  - **Role**: Full-stack (1인 개발)
+  - **Tech Stack**:
+    ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+    ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=PHP)
+    ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  - **Description**: 
+    - PHP OOP 아키텍처 기반 커뮤니티 플랫폼
+    - 회원 등급제, 이메일 인증, XSS 및 SQL Injection 보안 적용
+    - 관리자 페이지(어드민) 구현, 반응형 웹 디자인
+
+  <br>
+
 
 ## 💻 회사 프로젝트
 ___
@@ -51,7 +95,7 @@ ___
 - Period: 2024년 9월 ~ 2025년 7월
 - Role: 프론트엔드
 - Skill: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
-- Description: 대화형 챗봇 기반으로 일기·해시태그를 생성하고, 사용자 선택을 반영해 그림 일기를 생성하는 앱.
+- Description: 대화형 챗봇 기반 일기·해시태그 생성 및 AI 그림 일기 생성 앱
 
 <br>
 
@@ -64,7 +108,7 @@ ___
 - Period: 2024년 1월 ~ 2024년 5월
 - Role: 퍼블
 - Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=SASS)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Gulp](https://img.shields.io/badge/-Gulp-black?style=flat-square&logo=Gulp)![EJS](https://img.shields.io/badge/-EJS-black?style=flat-square&logo=EJS)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
-- Description: NH농협은행 IT센터 파견 근무, NH농협은행 "조회/이체"파트 구축.
+- Description: NH농협은행 IT센터 파견, 조회/이체 파트 구축
 
 <br>
 
@@ -77,7 +121,7 @@ ___
 - Period: 2022년 12월 ~ 2023년 6월
 - Role: 퍼블, 프론트엔드, 백엔드 (1인 개발)
 - Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=PHP)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
-- Description: PHP를 이용한 기업 대표 사이트.
+- Description: PHP 기반 기업 대표 사이트 제작
 
 <br>
 
@@ -90,7 +134,7 @@ ___
 - Period: 2022년 7월 ~ 2022년 11월
 - Role: 퍼블
 - Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![SVN](https://img.shields.io/badge/-SVN-black?style=flat-square&logo=SVN)
-- Description: k-bank IT센터 파견 근무, 인터넷 및 스마트 뱅킹 운영.
+- Description: k-bank IT센터 파견, 인터넷 및 스마트 뱅킹 운영
 
 <br>
 
@@ -103,33 +147,7 @@ ___
 - Period: 2022년 3월 ~ 2022년 6월
 - Role: 퍼블, 프론트엔드
 - Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Next.js](https://img.shields.io/badge/-Next.js-gray?style=flat-square&logo=Next.js)![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=NPM)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
-- Description : Next.js를 이용한 NFT 사이트.
-
-<br>
-<br>
-
-## 💻 개인 프로젝트
-___
-### barber101 커뮤니티 사이트 제작
-
-![barber101](https://github.com/LeeJoonYeong/LeeJoonYeong/assets/46806583/804557b4-1e4a-4cbf-b8ce-176e44ccbf5d)
-
-- [www.barber101.kr](https://barber101.kr)
-- Period: 2023년 8월 ~ 2023년 12월
-- Role: 퍼블, 프론트엔드, 백엔드 (1인 프로젝트)
-- Skill: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=PHP)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
-- Description
-    1. 1인 프로젝트로 진행.
-    2. 페이지 마크업은 시멘틱 태그를 사용하여 구성.
-    3. PHP의 OOP로 아키텍쳐 구성.
-    4. MySQL로 데이터 입/출력 관리.
-    5. 커뮤니티 메인 홈페이지 및 홈페이지 관리 페이지(어드민)으로 구성.
-    6. Mobile은 미디어쿼리(반응형)로 제작.
-    7. Cross Site Scripting(XSS)및 SQL Injection 보안 적용.
-    8. 다수의 사용자를 받아들여 회원가입, 로그인, 비밀번호 찾기, 댓글, 좋아요, 신고 기능 구현.
-    9. 사용자별 Token값을 이용하여 이메일 발송으로 비밀번호 찾기 시스템 구현. 
-    10. 회원 등급제로, 각 등급별 이용가능 페이지 구분 시스템. 
-    11. 현재 오픈은 했으나 운영 준비 중.
+- Description : Next.js 기반 NFT 민팅 플랫폼
 
 <br>
 <br>
@@ -151,8 +169,8 @@ A. 개발자로써 사용자에게 편리하고 유용한 서비스를 제공하
 
 ## ⚽ 컴퓨터 외 일상생활
 ___
-- 헬스(웨이트)
-- 축구
+- 헬스(웨이트) 💪
+- 축구 ⚽
 
 <p>
   컴퓨터로 일을 하면 회사와 집에 앉아 있는 시간만 해도 하루의 절반 이상입니다. 💻<br>
@@ -167,3 +185,10 @@ let hobby1 = 'football';
 let hobby2 = 'health';
 const happiness = hobby1 === 'football' && hobby2 === 'health' ? true : false;
 ```
+
+📫 Contact
+
+- Email: zkwldk02@naver.com
+- Portfolio: [[Notion 포트폴리오 링크]](https://brindle-week-aa9.notion.site/2fca53abc7a5809e8875c9a0103d1259?pvs=143)
+
+💡 Private repository 코드 열람을 원하시면 연락 주세요!
