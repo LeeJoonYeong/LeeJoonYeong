@@ -76,9 +76,10 @@ ___
     ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=PHP)
     ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   - **Description**: 
-    - PHP OOP 아키텍처 기반 커뮤니티 플랫폼
+    - PHP OOP 아키텍처 기반 미용사 커뮤니티 플랫폼
     - 회원 등급제, 이메일 인증, XSS 및 SQL Injection 보안 적용
     - 관리자 페이지(어드민) 구현, 반응형 웹 디자인
+    - 현재 운영 중단 상태
 
   <br>
 
