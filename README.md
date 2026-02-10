@@ -52,13 +52,12 @@ ___
     ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat-square&logo=typescript)
     ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase)
     ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
-  - **Description**: 
-    - 반응력, 순발력, 관찰력 등 감각 능력을 측정하고 실시간 1:1 대전이 가능한 웹 게임 플랫폼
-    - Supabase Realtime(Channel, Broadcast, Presence)으로 멀티플레이어 매칭 시스템 구현
-    - Proxy 패턴으로 탭 전환 시 Supabase 클라이언트 복구 문제 해결
-    - Code Splitting으로 초기 번들 크기 65% 감소 (889KB → 312KB)
-    - 일일 티켓 시스템, 능력치 시스템, 리더보드 등 게이미피케이션 요소 적용
-  - **GitHub**: Private (요청 시 접근 권한 제공)
+  - **Description**:
+    - React 기반 게임 플랫폼으로, 반응력·순발력·관찰력·동체시력 등 다양한 게임 구현.
+    - 싱글플레이(연습/실전 모드)와 멀티플레이(1:1 실시간 대전) 시스템 모두 제공.
+    - 일일 티켓 시스템, 능력치 시스템, 리더보드 등 게이미피케이션 요소 적용.
+    - 반응형으로 제작하여 모바일/태블릿/PC 모두 이용 가능하도록 구현.
+    - **GitHub**: Private (요청 시 접근 권한 제공)
 
   <br>
 
